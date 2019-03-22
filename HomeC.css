@@ -31,6 +31,15 @@ body{
   text-align: center;
 }
 
+.rectangle {
+  color: white;
+  background-color: blue;
+  border-radius: 100px;
+  height: 100px
+
+
+}
+
 /* Style each tab content individually */
 #London {background-color:red;}
 #Paris {background-color:green;}
